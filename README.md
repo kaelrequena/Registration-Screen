@@ -38,5 +38,4 @@ Uma interface simples e funcional para cadastro de usuários, utilizando **PHP (
 └── 📘 README.md # Documentação
 
 ---
-
-Se quiser, posso substituir os links `www.linkedin.com/in/kael-rodrigues-requena-209492252 ` e `[💻 SeuGitHub]` pelos reais. Deseja incluir isso?
+[🔗 LinkedIn](https://www.linkedin.com/in/kael-rodrigues-requena-209492252) | [💻 GitHub](https://github.com/seu-usuario
