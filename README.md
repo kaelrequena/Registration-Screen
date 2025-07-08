@@ -36,6 +36,22 @@ Uma interface simples e funcional para cadastro de usuários, utilizando **PHP (
 │ └── ⚙️ main.js # Validações e interações JS
 ├── 📦 package.json # Gerenciador de dependências JS (opcional)
 └── 📘 README.md # Documentação
+---
+
+## 🧰 Requisitos
+
+- ✅ PHP 7.x ou superior
+- ✅ MySQL ou MariaDB
+- ✅ Servidor local (XAMPP, WAMP ou PHP CLI embutido)
+- ✅ Navegador moderno
+
+---
+
+## 🛠️ Como Rodar Localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/kaelrequena/tela-cadastro.git
 
 ---
 [🔗 LinkedIn](https://www.linkedin.com/in/kael-rodrigues-requena-209492252) | [💻 GitHub](https://github.com/
