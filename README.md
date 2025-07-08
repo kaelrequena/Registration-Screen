@@ -38,4 +38,5 @@ Uma interface simples e funcional para cadastro de usuários, utilizando **PHP (
 └── 📘 README.md # Documentação
 
 ---
-[🔗 LinkedIn](https://www.linkedin.com/in/kael-rodrigues-requena-209492252) | [💻 GitHub](https://github.com/seu-usuario
+[🔗 LinkedIn](https://www.linkedin.com/in/kael-rodrigues-requena-209492252) | [💻 GitHub](https://github.com/
+kaelrequena
